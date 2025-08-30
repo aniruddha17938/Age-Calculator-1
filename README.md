@@ -1,2 +1,2 @@
 # Age-Calculator-1
-HTML, CSS, JS project 1
+Simple age calculator built using Javascript, HTML and CSS
